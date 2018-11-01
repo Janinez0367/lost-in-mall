@@ -1,4 +1,5 @@
-###LOST IN THE MALL
+#### Lost in the mall
+
 You run to use the nearest bathroom in the mall.
 You just blindly follow the signs in your area. You find the bathroom. 
 After using the bathroom you forgot the direction of where you came from. 
