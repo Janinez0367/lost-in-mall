@@ -5,5 +5,6 @@ You just blindly follow the signs in your area. You find the bathroom.
 After using the bathroom you forgot the direction of where you came from. 
 Which direction do you predict you came from from?
 ---
-Select a direction:
-[Left](../directleft1.md)
+Select a direction:  
+[Left](directleft1.md)
+[Right](directright.md)
